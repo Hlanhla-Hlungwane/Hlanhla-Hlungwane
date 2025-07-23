@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hlanhla Hlungwane</h1>
+<h1 align="center">Hi 👋, I am Hlanhla Hlungwane</h1>
 <h3 align="center">A BSc (Hon) Mechanical Engineering student and aspiring Data Scientist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hlanhla-hlungwane&label=Profile%20views&color=0e75b6&style=flat" alt="hlanhla-hlungwane" /> </p>
