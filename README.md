@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hlanhla-hlungwane" alt="hlanhla-hlungwane" /></a> </p>
 
-- 🔭 I’m currently working on [My portfolio Website]((https://hlanhla-hlungwane.github.io/Hlanhla-Hlungwane_Portfolio-/index.html))
+- 🔭 I’m currently working on [My portfolio Website](https://hlanhla-hlungwane.github.io/Hlanhla-Hlungwane_Portfolio-/index.html)
 
 - 🌱 I’m currently learning **Python, R and Machine Learning**
 
